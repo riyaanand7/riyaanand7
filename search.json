@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Riya",
+    "section": "",
+    "text": "Insert background"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Riya",
+    "section": "",
+    "text": "Insert background"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Riya",
+    "section": "Education",
+    "text": "Education\nMaster of Research / Political Science\nSciences Po Paris — 2026"
+  },
+  {
+    "objectID": "about.html#technical-toolkit",
+    "href": "about.html#technical-toolkit",
+    "title": "About Riya",
+    "section": "Technical Toolkit",
+    "text": "Technical Toolkit\n\nStatistical Modeling & Programming: R (tidyverse, ggplot2, mediation, ggeffects), Python\nPublishing & Version Control: Quarto, Git, GitHub Pages, Markdown\nMethods: Survey Analysis, Logistic Regression, Causal Mediation, Web Scraping, Encoder-Based Machine Learning"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nRight-wing media split GOP loyalties after January 6\n\n\n\nR\n\n\nMediation Analysis\n\n\nPolitical Science\n\n\nData Viz\n\n\n\nAn empirical analysis examining how right-wing media consumption mediated blame attribution among Republicans.\n\n\n\nOct 15, 2026\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/fox-to-fracture/index.html",
+    "href": "projects/fox-to-fracture/index.html",
+    "title": "Right-wing media split GOP loyalties after January 6",
+    "section": "",
+    "text": "Overview\nThis project evaluates how information ecosystems shape political accountability, using the January 6 U.S. Capitol attacks as a case study.\nRead the full article here →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Riya Anand",
+    "section": "",
+    "text": "I am a political scientist and data journalist. I recently graduated from Sciences Po Paris with a master’s degree in political science from the School of Research.\nExplore my empirical articles and other fun data visualizations in the Projects section.\n\n\n\nPolitical Communication\nData Journalism & Visual Storytelling"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Riya Anand",
+    "section": "",
+    "text": "I am a political scientist and data journalist. I recently graduated from Sciences Po Paris with a master’s degree in political science from the School of Research.\nExplore my empirical articles and other fun data visualizations in the Projects section.\n\n\n\nPolitical Communication\nData Journalism & Visual Storytelling"
+  }
+]
