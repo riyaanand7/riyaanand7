@@ -1,0 +1,28 @@
+---
+title: "Riya Anand"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/riyaanand7
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/riya-anand-/
+    - icon: envelope
+      text: Contact
+      href: mailto:riya.anand@sciencespo.fr
+---
+
+## Welcome
+
+I am a political scientist and data journalist. I recently graduated from Sciences Po Paris with a master's degree in political science from the School of Research.
+
+Explore my empirical articles and other fun data visualizations in the [Projects](projects.qmd) section.
+
+### Areas of Focus
+- Political Communication
+- Data Journalism & Visual Storytelling

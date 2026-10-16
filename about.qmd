@@ -1,0 +1,18 @@
+---
+title: "About Riya"
+---
+
+## Background
+
+Insert background
+
+## Education
+
+**Master of Research / Political Science**  
+*Sciences Po Paris* — 2026
+
+## Technical Toolkit
+
+* **Statistical Modeling & Programming:** R (`tidyverse`, `ggplot2`, `mediation`, `ggeffects`), Python
+* **Publishing & Version Control:** Quarto, Git, GitHub Pages, Markdown
+* **Methods:** Survey Analysis, Logistic Regression, Causal Mediation, Web Scraping, Encoder-Based Machine Learning
