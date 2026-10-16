@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+
+// Base Brand Colors
+$primary: #0284C7;          // Main brand color (links, primary buttons, active tabs)
+$secondary: #64748B;        // Secondary buttons and badges
+$body-bg: #FAFAF9;          // Warm off-white page background (matches Economist graphic style)
+$body-color: #1C1917;       // Charcoal text (softer and more readable than pure #000)
+
+// Navbar Colors
+$navbar-bg: #0F172A;        // Deep slate / midnight header
+$navbar-fg: #F8FAFC;        // Header link text
+$navbar-hl: #38BDF8;        // Active/hover link highlight
+
+// Typography
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$headings-font-weight: 700;
+
+/*-- scss:rules --*/
+
+// Project Cards & Custom Polish
+.quarto-grid-item {
+  border-radius: 8px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
+  }
+}

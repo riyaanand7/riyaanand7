@@ -1,0 +1,12 @@
+---
+title: "Projects"
+subtitle: "A collection of empirical research and data stories."
+listing:
+  contents: projects
+  type: grid
+  sort: "date desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, date, title, description, categories]
+---

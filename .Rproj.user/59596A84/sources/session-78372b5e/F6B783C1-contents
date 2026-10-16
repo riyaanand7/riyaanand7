@@ -4,7 +4,12 @@ project:
 
 website:
   title: "Riya Anand"
+  
+  # Navigation Bar Styling
   navbar:
+    background: "#961464"      # Options: "primary", "dark", "light", or custom hex code like "#0F172A"
+    search: true               # Adds an interactive search bar
+    pinned: true               # Keeps navbar visible as visitors scroll
     left:
       - text: "Home"
         href: index.qmd
@@ -15,12 +20,20 @@ website:
     right:
       - icon: github
         href: https://github.com/riyaanand7
-      - icon: linkedin
-        href: https://www.linkedin.com/in/riya-anand-/
       - icon: envelope
-        href: mailto:riya.anand@sciencespo.fr
+        href: riya.anand@sciencespo.fr
+
+  # Optional Footer
+  page-footer:
+    center: "© 2026 Riya Anand • Built with Quarto"
+    background: light
 
 format:
   html:
-    theme: cosmo
-    toc: true
+    theme:
+      - journal                  # Base Bootswatch theme
+      - /custom.scss            # Custom SCSS overrides (see Step 3)
+    toc: true                  # Table of contents for longform posts
+    toc-location: right
+    smooth-scroll: true
+    link-external-newwindow: true
